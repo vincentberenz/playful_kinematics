@@ -1,0 +1,12 @@
+
+PROJECT_NAME           = "playful kinematics"
+OUTPUT_DIRECTORY       = ../../doc/python
+JAVADOC_AUTOBRIEF      = YES
+TAB_SIZE               = 4
+EXTRACT_ALL            = NO
+EXTRACT_PRIVATE        = NO
+EXTRACT_STATIC         = YES
+INPUT                  = ../../scripts
+FILE_PATTERNS          = playful_kinematics.py 
+RECURSIVE              = YES
+GENERATE_LATEX         = NO

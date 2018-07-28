@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+
+<package>
+
+  <name>playful_kinematics</name>
+  <version>1.0.0</version>
+  <description>playful forward and inverse kinematics</description>
+
+  <license>LGPL</license>
+
+  <author email="vincentberenz@tuebingen.mpg.de">Vincent Berenz</author>
+
+  <maintainer email="vincentberenz@tuebingen.mpg.de">Vincent Berenz</maintainer>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>cmake_modules</build_depend>
+  <build_depend>kdl_parser</build_depend>
+  <build_depend>urdf</build_depend>
+
+  <run_depend>kdl_parser</run_depend>
+  <run_depend>urdf</run_depend>
+
+  <export>
+  </export>
+
+</package>

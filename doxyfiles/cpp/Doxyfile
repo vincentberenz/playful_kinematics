@@ -1,0 +1,15 @@
+
+PROJECT_NAME           = "playful kinematics (c++ backend)"
+OUTPUT_DIRECTORY       = ../../doc/cpp
+JAVADOC_AUTOBRIEF      = YES
+TAB_SIZE               = 4
+EXTRACT_ALL            = TRUE
+EXTRACT_PRIVATE        = NO
+EXTRACT_STATIC         = YES
+INPUT                  = ../../include/playful_kinematics 
+FILE_PATTERNS          = *.h \
+                         *.hpp \
+			 *.cpp \
+RECURSIVE              = YES
+GENERATE_LATEX         = NO
+

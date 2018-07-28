@@ -1,0 +1,4 @@
+var searchData=
+[
+  ['minimize',['minimize',['../namespaceplayful__kinematics.html#aa0d2a0954f22df39d9a47939bf76c5a3',1,'playful_kinematics::minimize(std::vector&lt; float &gt; &amp;posture, std::map&lt; int, float &gt; min, std::map&lt; int, float &gt; max, float target_score, float max_step, float min_step, int max_iteration, float(*score)(std::vector&lt; float &gt; &amp;), float &amp;final_score)'],['../namespaceplayful__kinematics.html#a7191d1faf3e56c04f71ad69034ae4f09',1,'playful_kinematics::minimize(std::vector&lt; float &gt; &amp;posture, std::vector&lt; int &gt; minimization_priority, std::map&lt; int, float &gt; min, std::map&lt; int, float &gt; max, float target_score, float max_step, float min_step, int max_iteration, float(*score)(std::vector&lt; float &gt; &amp;), float &amp;final_score)']]]
+];
