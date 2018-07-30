@@ -1,5 +1,6 @@
 # PLAYFUL KINEMATICS
 
+![playful](http://vincentberenz.is.tuebingen.mpg.de/export/playful_apollo_pepper.JPG)
 
 ## What it is
 
